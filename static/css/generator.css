@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0px;
+
+}
+
+#left-panel {
+    width: 25%;
+    height: 100vh;
+    background-color: blue;
+}
+#right-panel {
+    width: 75%;
+    height: 100vh;
+    background-color: red;
+
+    diplay: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo-box {
+    width: 25%;
+    height: 25%;
+    background-color: pink;
+}
